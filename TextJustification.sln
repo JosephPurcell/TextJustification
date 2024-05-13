@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextJustification", "TextJustification\TextJustification.csproj", "{9485F4B6-02D8-45B4-8B33-B10DE7392907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{57F7A0B9-1F97-42D9-8F1D-1C41CB86EF06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9485F4B6-02D8-45B4-8B33-B10DE7392907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9485F4B6-02D8-45B4-8B33-B10DE7392907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9485F4B6-02D8-45B4-8B33-B10DE7392907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9485F4B6-02D8-45B4-8B33-B10DE7392907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F7A0B9-1F97-42D9-8F1D-1C41CB86EF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F7A0B9-1F97-42D9-8F1D-1C41CB86EF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F7A0B9-1F97-42D9-8F1D-1C41CB86EF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F7A0B9-1F97-42D9-8F1D-1C41CB86EF06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA91763-5349-425F-A4BC-CA636C86DCA9}
+	EndGlobalSection
+EndGlobal
